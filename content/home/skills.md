@@ -16,18 +16,31 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 30%
-    icon: laptop-code
-    icon_pack: fas
-    name: LaTeX
-  - description: 65%
-    icon: python
+  - description: 80%
+    icon: windows
     icon_pack: fab
-    name: Python
-  - description: 60%
+    name: Windows
+  - description: 35%
+    icon: linux
+    icon_pack: fab
+    name: Linux
+  - description: 70%
     icon: git-alt
     icon_pack: fab
     name: Git
+  - description: 80%
+    icon: markdown
+    icon_pack: fab
+    name: Markdown
+  - description: 70%
+    icon: python
+    icon_pack: fab
+    name: Python
+  - description: 30%
+    icon: file-code
+    icon_pack: fas
+    name: HTML
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

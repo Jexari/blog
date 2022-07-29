@@ -23,14 +23,23 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://disk.yandex.ru/i/wiMTfv-_80x-LA
+  - certificate_url: https://stepik.org/cert/1521558
     date_end: ''
-    date_start: '2022-05-01'
+    date_start: '2022-06-21'
     description: ''
-    organization: RUDN
+    organization: RUDN University
     organization_url: https://www.rudn.ru/
-    title: Digital Pedagogy
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    title: Business communications
+    url: https://stepik.org/cert/1521558
+    
+  - certificate_url: https://disk.yandex.ru/i/HyJy1Ir4AgWH1g
+    date_end: ''
+    date_start: '2021-11-27'
+    description: ''
+    organization: Synergy University
+    organization_url: https://synergy.ru/
+    title: Digital Economy
+    url: https://disk.yandex.ru/i/HyJy1Ir4AgWH1g
 
 
 design:
