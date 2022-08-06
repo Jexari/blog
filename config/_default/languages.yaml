@@ -6,8 +6,38 @@
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
-
+  contentDir: content/en
+  title: Aslan A. Sheozhev
+  
+ru:
+  languageCode: ru-ru
+  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  contentDir: content/ru
+  title: А. А. Шеожев
+  menu:
+    main:
+      - name: Обо мне
+        url: '#about'
+        weight: 10
+      - name: Опыт
+        url: '#experience'
+        weight: 20
+      - name: Блог
+        url: '#posts'
+        weight: 30
+      - name: Проекты
+        url: '#projects'
+        weight: 40
+      - name: Мероприятия
+        url: '#talks'
+        weight: 50
+      - name: Публикации
+        url: '#featured'
+        weight: 60
+      - name: Контакты
+        url: '#contact'
+        weight: 70
+  
 # Uncomment the lines below to configure your website in a second language.
 #zh:
 #  languageCode: zh-Hans
