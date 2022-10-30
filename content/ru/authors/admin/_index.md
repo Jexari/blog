@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Шеожев Аслан Аскерович
+title: Долганов Ян
 
 # Is this the primary user of the site?
 superuser: true
