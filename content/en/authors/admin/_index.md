@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Aslan A. Sheozhev
+title: Dolganov
 
 # Is this the primary user of the site?
 superuser: true
