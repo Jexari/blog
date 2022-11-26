@@ -30,7 +30,7 @@ item:
     organization: Российский университет дружбы народов
     organization_url: https://www.rudn.ru/
     title: Деловые коммуникации
-    url: https://stepik.org/cert/1521558
+    url: 
     
   - certificate_url: 
     date_end: ''
@@ -39,7 +39,7 @@ item:
     organization: Синергия
     organization_url: https://synergy.ru/
     title: Цифровая экономика
-    url: https://disk.yandex.ru/i/HyJy1Ir4AgWH1g
+    url:
 
   - certificate_url: 
     date_end: ''
@@ -48,8 +48,16 @@ item:
     organization: Дальневосточный Федеральный университет
     organization_url: https://www.dvfu.ru/
     title: Введение в кибербезопасность
-    url: https://stepik.org/cert/1592351
+    url:
 
+  - certificate_url: 
+    date_end: ''
+    date_start: '2022-08-10'
+    description: ''
+    organization: Университет Иннополис
+    organization_url: https://innopolis.university/
+    title: Основы тестирования ПО
+    url:
 
 design:
   columns: '2'

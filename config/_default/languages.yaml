@@ -7,12 +7,12 @@ en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: content/en
-  title: Aslan A. Sheozhev
+  title: Yan L. Dolganov
   
 ru:
   languageCode: ru-ru
   contentDir: content/ru
-  title: А. А. Шеожев
+  title: Ян Долганов
   menu:
     main:
       - name: Обо мне

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Долганов Ян
+title: Долганов Ян Львович
 
 # Is this the primary user of the site?
 superuser: true
@@ -61,10 +61,10 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'dolganov_yan@mail.ru'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Шеожев Аслан Аскерович работает в ООО «Гейзер-Телеком» в отделе «специальных работ». Аслан также является студентом двух университетов и постоянно посещает различные курсы, связанные с его учебой.
+Долганов Ян Львович учится в Российском университете дружбы народов. Его научные интересы относятся к области администрирования ОС и различных языков программирования. Ян является студентом двух университетов и постоянно посещает различные курсы, связанные с его учебой.

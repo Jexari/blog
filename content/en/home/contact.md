@@ -25,7 +25,7 @@ content:
       captcha: true
 
   # Contact details (edit or remove options as required)
-  email: aslan.sheudzhen@mail.ru
+  email: dolganov_yan@mail.ru
 
 #  address:
 #    street: 

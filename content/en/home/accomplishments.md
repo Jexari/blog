@@ -50,6 +50,14 @@ item:
     title: Introduction to cybersecurity
     url: https://stepik.org/cert/1592351
 
+  - certificate_url: 
+    date_end: ''
+    date_start: '2022-08-10'
+    description: ''
+    organization: Innopolis University
+    organization_url: https://innopolis.university/en/
+    title: Fundamentals of Software Testing
+    url:
 
 design:
   columns: '2'

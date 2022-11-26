@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dolganov
+title: Yan L. Dolganov
 
 # Is this the primary user of the site?
 superuser: true
@@ -61,10 +61,10 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'dolganov_yan@mail.ru'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Aslan A. Sheozhev works as a specialist at Geyser-Telecom LLC in the "special works" department. Aslan is also a student of two universities and constantly takes various courses related to his studies.
+Yan L. Dolganov studies at the RUDN University. His research interests are in OS administration and various programming languages. Yan is a student at two universities and constantly attends various courses related to his studies.

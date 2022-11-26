@@ -27,8 +27,8 @@ experience:
     company_url: 'https://www.geyser-telecom.ru/'
     company_logo: geyser
     location: Moscow, Russian Federation
-    date_start: '2022-08-01'
-    date_end: ''
+    date_start: '2022-08-02'
+    date_end: '2022-11-01'
     description: ''
 
 design:
