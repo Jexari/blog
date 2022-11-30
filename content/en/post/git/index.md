@@ -1,16 +1,15 @@
-
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Version control. Git"
+title: "Git Basics"
 subtitle: ""
-summary: "Main information about Git"
-authors: [Aslan A. Sheozhev]
-tags: []
-categories: []
+summary: "What is Git? Basic commands for version control."
+authors: []
+tags: [Git]
+categories: [Git]
 date: 2022-05-07T18:44:49+03:00
 lastmod: 2022-05-07T18:44:49+03:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -28,33 +27,84 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+<details class="toc-inpage d-print-none  " open="">
+<summary class="font-weight-bold">Content</summary>
+<nav id="TableOfContents" class="nav flex-column">
+<ul>
+<li class="nav-item"><a href="#about_git" class="nav-link"><span class="section-num">1</span> What is Git and what is it for?</a></li>
+<li class="nav-item"><a href="#main_commands" class="nav-link"><span class="section-num">2</span> Basic commands</a></li>
+<li class="nav-item"><a href="#dictionary" class="nav-link"><span class="section-num">3</span> Dictionary</a></li>
+</ul>
+</nav>
+</details>
 
-![Git_logo](git.png)
+<h2 id='about_git'><span class="section-num"><b>1</span>. What is Git and what is it for?</b></h2>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What is <a href="https://git-scm.com/" target = "_blank">Git</a> for, and what is a version control system anyway? A version control system is a system that records changes to a file or set of files over time and allows you to revert to a specific version later. Simply put, in case of a file change, the file and the place of the change will be marked, you can also undo the previously entered file changes, see who last changed something and caused the problem and when, and much more. If you break something or lose files, you can easily fix it.</p>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One such system is Git. At the moment, it is the most common for a number of reasons:</p>
+<ul><li>Free and open source</li>
+<li>Fast</li>
+<li>Simple branching</li>
+<li>Backup</li></ul>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hostings are provided for git repositories, for example: GitHub, Codebase, Bitbucket, GitLab, etc.</p>
 
-# About Version Control
-This chapter will be about getting started with Git. We will begin by explaining some background on version control tools, then move on to how to get Git running on your system and finally how to get it set up to start working with. At the end of this chapter you should understand why Git is around, why you should use it and you should be all set up to do so.
+<h2 id='main_commands'><span class="section-num"><b>2</span>. Basic commands:</b></h2>
 
-About Version Control
-What is “version control”, and why should you care? Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. For the examples in this book, you will use software source code as the files being version controlled, though in reality you can do this with nearly any type of file on a computer.
+<style>
+    .heatMap {
+        text-align: center;
+    }
+    .heatMap th {
+        background: grey;
+        word-wrap: break-word;
+        text-align: center;
+    }
+    td, th {
+    	border: 1px solid black;
+    }
+    .heatMap td:nth-child(1) { background: #437DD4; }
+    .heatMap td:nth-child(2) { background: #FF4940; }
+</style>
 
-If you are a graphic or web designer and want to keep every version of an image or layout (which you would most certainly want to), a Version Control System (VCS) is a very wise thing to use. It allows you to revert selected files back to a previous state, revert the entire project back to a previous state, compare changes over time, see who last modified something that might be causing a problem, who introduced an issue and when, and more. Using a VCS also generally means that if you screw things up or lose files, you can easily recover. In addition, you get all this for very little overhead.
 
-Local Version Control Systems
-Many people’s version-control method of choice is to copy files into another directory (perhaps a time-stamped directory, if they’re clever). This approach is very common because it is so simple, but it is also incredibly error prone. It is easy to forget which directory you’re in and accidentally write to the wrong file or copy over files you don’t mean to.
 
-To deal with this issue, programmers long ago developed local VCSs that had a simple database that kept all the changes to files under revision control.
 
-One of the most popular VCS tools was a system called RCS, which is still distributed with many computers today. RCS works by keeping patch sets (that is, the differences between files) in a special format on disk; it can then re-create what any file looked like at any point in time by adding up all the patches.
+<div class="heatMap">
 
-Centralized Version Control Systems
-The next major issue that people encounter is that they need to collaborate with developers on other systems. To deal with this problem, Centralized Version Control Systems (CVCSs) were developed. These systems (such as CVS, Subversion, and Perforce) have a single server that contains all the versioned files, and a number of clients that check out files from that central place. For many years, this has been the standard for version control.
+| Command | Command description | 
+| -- | -- |
+| git init | creating a new repository |
+| git status | view status of current files |
+| git add | adding changes and new files to the current directory |
+| git add file.py | adding file.py |
+| git .add | adding all changes |
+| git commit | creating a new commit |
+| git commit -m 'text' | creating a commit called text |
+| git branch | shows a list of all branches |
+| git branch -v | shows a list of branches and the latest commit in each |
+| git branch name | creates a new branch name |
+| git branch -D name | deletes a branch name |
+| git checkout | switching between recent commits |
+| git checkout file | revert file to last commit state |
+| git config | configuration and options git |
+| git config --global user.name | shows username |
+| git config --global user.name 'New name' | changes username |
+| git config --global user.email | shows the user's email |
+| git config --global user.email 'name@gmail.com' | changes the user's email |
+| git push | uploading local commits to a remote repository |
+| git pull | downloads changes from the remote repository to the local one |
+| git clone | cloning a project from a remote repository |
+</div>
 
-This setup offers many advantages, especially over local VCSs. For example, everyone knows to a certain degree what everyone else on the project is doing. Administrators have fine-grained control over who can do what, and it’s far easier to administer a CVCS than it is to deal with local databases on every client.
 
-However, this setup also has some serious downsides. The most obvious is the single point of failure that the centralized server represents. If that server goes down for an hour, then during that hour nobody can collaborate at all or save versioned changes to anything they’re working on. If the hard disk the central database is on becomes corrupted, and proper backups haven’t been kept, you lose absolutely everything — the entire history of the project except whatever single snapshots people happen to have on their local machines. Local VCSs suffer from this same problem — whenever you have the entire history of the project in a single place, you risk losing everything.
 
-Distributed Version Control Systems
-This is where Distributed Version Control Systems (DVCSs) step in. In a DVCS (such as Git, Mercurial, Bazaar or Darcs), clients don’t just check out the latest snapshot of the files; rather, they fully mirror the repository, including its full history. Thus, if any server dies, and these systems were collaborating via that server, any of the client repositories can be copied back up to the server to restore it. Every clone is really a full backup of all the data.
-
-Furthermore, many of these systems deal pretty well with having several remote repositories they can work with, so you can collaborate with different groups of people in different ways simultaneously within the same project. This allows you to set up several types of workflows that aren’t possible in centralized systems, such as hierarchical models.
-
+<h2 id='dictionary'><span class="section-num"><b>3</span>. Dictionary</b></h2>
+<h4>Branch</h4>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A branch or copy of the project where you can make any changes, they will not affect the main project.</p>
+<h4>Git</h4>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How files and their versions are stored.</p>
+<h4>Cloning</h4>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Copying a repository to a hard drive.</p>
+<h4>Commit</h4>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Set with changes (changed, new and added files) written to the local repository.</p>
+<h4>Push</h4>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sending changes to the server.</p>

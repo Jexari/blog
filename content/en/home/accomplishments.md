@@ -30,7 +30,7 @@ item:
     organization: RUDN University
     organization_url: https://www.rudn.ru/
     title: Business communications
-    url: https://stepik.org/cert/1521558
+    url: 
     
   - certificate_url: 
     date_end: ''
@@ -39,7 +39,7 @@ item:
     organization: Synergy University
     organization_url: https://synergy.ru/
     title: Digital Economy
-    url: https://disk.yandex.ru/i/HyJy1Ir4AgWH1g
+    url: 
 
   - certificate_url: 
     date_end: ''
@@ -48,7 +48,7 @@ item:
     organization: Far Eastern Federal University
     organization_url: https://www.dvfu.ru/
     title: Introduction to cybersecurity
-    url: https://stepik.org/cert/1592351
+    url: 
 
   - certificate_url: 
     date_end: ''

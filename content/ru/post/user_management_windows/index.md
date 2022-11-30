@@ -4,9 +4,9 @@
 title: "Управление пользователями в Windows"
 subtitle: ""
 summary: "Управление учётными записями локальных пользователей через lusrmgr.msc и cmd."
-authors: [Долганов Ян]
-tags: []
-categories: []
+authors: []
+tags: [Windows, System administrator]
+categories: [System administrator]
 date: 2022-11-27T21:42:56+03:00
 lastmod: 2022-11-27T21:42:56+03:00
 featured: true
