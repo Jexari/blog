@@ -66,4 +66,4 @@ int n[6] = {0, 0, 1, 0, 1, 0}; </li>
 <ul><li>количество различных аттракторов.</li></ul>
 
 <h2 id='solution'><span class="section-num"><b>3</span>. Решение</b></h2>
-Для просмотра решения на языке Python вы можете посетить <a href="https://github.com/Jexari/intelligent-systems" target = "_blank">мой репозиторий</a>. 
+<p align="justify">Для просмотра решения на языке Python вы можете посетить <a href="https://github.com/Jexari/intelligent-systems" target = "_blank">мой репозиторий</a>.</p>

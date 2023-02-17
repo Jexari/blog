@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yan L. Dolganov
+title: Ian L. Dolganov
 
 # Is this the primary user of the site?
 superuser: true
@@ -70,4 +70,4 @@ email: 'dolganov_yan@mail.ru'
 highlight_name: true
 ---
 
-Yan L. Dolganov studies at the RUDN University. His research interests are in OS administration and various programming languages. Yan is a student at two universities and constantly attends various courses related to his studies.
+Ian L. Dolganov studies at the RUDN University. His research interests are in OS administration and various programming languages. Ian is a student at two universities and constantly attends various courses related to his studies.
