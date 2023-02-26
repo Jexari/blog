@@ -50,4 +50,4 @@ projects: []
 
 * * *
 
-Для просмотра этих и иных программ на языке Python вы можете посетить <a href="https://github.com/Jexari/python_for_site" target = "_blank">мой репозиторий</a>.
+<p align="justify">Для просмотра этих и иных программ на языке Python вы можете посетить <a href="https://github.com/Jexari/python_for_site" target = "_blank">мой репозиторий</a>.</p>

@@ -81,7 +81,7 @@ projects: []
 
 <h2 id='формулировка_задачи_15'><span class="section-num"><b>3</span>. Формулировка задачи</b></h2>
 
-<p>Дано 2 матрицы: изначальная и конечная. Реализовать решение задачи (осуществляя <a href="https://en.wikipedia.org/wiki/Depth-first_search" target = "_blank">поиск в глубину</a>), применяя <a href="https://ru.wikipedia.org/wiki/Эвристический_алгоритм" target = "_blank">эвристику</a>.</p>
+<p align="justify">Дано 2 матрицы: изначальная и конечная. Реализовать решение задачи (осуществляя <a href="https://en.wikipedia.org/wiki/Depth-first_search" target = "_blank">поиск в глубину</a>), применяя <a href="https://ru.wikipedia.org/wiki/Эвристический_алгоритм" target = "_blank">эвристику</a>.</p>
 
 <h2 id='решение_задачи_15'><span class="section-num"><b>4</span>. Решение</b></h2>
 <p align="justify">Для просмотра решения на языке Python вы можете посетить <a href="https://github.com/Jexari/intelligent-systems" target = "_blank">мой репозиторий</a>.</p>

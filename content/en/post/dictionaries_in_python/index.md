@@ -50,4 +50,4 @@ projects: []
 
 * * *
 
-To view these and other Python programs, you can visit <a href="https://github.com/Jexari/python_for_site" target = "_blank">my repository</a>.
+<p align="justify">To view these and other Python programs, you can visit <a href="https://github.com/Jexari/python_for_site" target = "_blank">my repository</a>.</p>
