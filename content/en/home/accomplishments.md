@@ -25,38 +25,29 @@ date_format: Jan 2006
 item:
   - certificate_url: 
     date_end: ''
-    date_start: '2022-06-21'
+    date_start: '2025-06-30'
     description: ''
     organization: RUDN University
     organization_url: https://www.rudn.ru/
-    title: Business communications
+    title: Computer Science Teacher
     url: 
     
   - certificate_url: 
     date_end: ''
     date_start: '2021-11-27'
     description: ''
-    organization: Synergy University
-    organization_url: https://synergy.ru/
-    title: Digital Economy
-    url: 
-
-  - certificate_url: 
-    date_end: ''
-    date_start: '2022-07-31'
-    description: ''
-    organization: Far Eastern Federal University
-    organization_url: https://www.dvfu.ru/
-    title: Introduction to cybersecurity
-    url: 
+    organization: RUDN University
+    organization_url: https://www.rudn.ru/
+    title: Graphic design
+    url:
 
   - certificate_url: 
     date_end: ''
     date_start: '2022-08-10'
     description: ''
     organization: Innopolis University
-    organization_url: https://innopolis.university/en/
-    title: Fundamentals of Software Testing
+    organization_url: https://innopolis.university/
+    title: Software Testing Basics
     url:
 
 design:

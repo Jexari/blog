@@ -25,29 +25,20 @@ date_format: Jan 2006
 item:
   - certificate_url: 
     date_end: ''
-    date_start: '2022-06-21'
+    date_start: '2025-06-30'
     description: ''
     organization: Российский университет дружбы народов
     organization_url: https://www.rudn.ru/
-    title: Деловые коммуникации
+    title: Преподаватель информатики
     url: 
     
   - certificate_url: 
     date_end: ''
     date_start: '2021-11-27'
     description: ''
-    organization: Синергия
-    organization_url: https://synergy.ru/
-    title: Цифровая экономика
-    url:
-
-  - certificate_url: 
-    date_end: ''
-    date_start: '2022-07-31'
-    description: ''
-    organization: Дальневосточный Федеральный университет
-    organization_url: https://www.dvfu.ru/
-    title: Введение в кибербезопасность
+    organization: Российский университет дружбы народов
+    organization_url: https://www.rudn.ru/
+    title: Графический дизайн
     url:
 
   - certificate_url: 

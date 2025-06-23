@@ -15,18 +15,24 @@ content:
   # Automatically link email and phone or display as text?
   autolink: true
 
-  # Email form provider
+  content:
   form:
-    provider: netlify
-    formspree: 
-      id: 
-    netlify: 
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: true
+    provider: formspree
+    formspree:
+      id: mnnvgzqz
+
+
+  # Email form provider
+  #form:
+  #  provider: netlify
+  #  formspree: 
+  #    id:
+  3  netlify: 
+  #    # Enable CAPTCHA challenge to reduce spam?
+  #    captcha: true
 
   # Contact details (edit or remove options as required)
-  email: dolganov_yan@mail.ru
-
+  email: Ian_L_Dolganov@mail.ru
 #  address:
 #    street: 
 #    city: 
