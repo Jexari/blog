@@ -72,4 +72,4 @@ email: 'Ian_L_Dolganov@mail.ru'
 highlight_name: true
 ---
 
-Ian L. Dolganov is a publicist, popularizer of science and programmer. He is currently studying at the Swiss International Institute Lausanne. His scientific interests include game design and various programming languages, as well as the development of innovative solutions in the field of AI.
+Ian L. Dolganov graduated from the Peoples' Friendship University of Russia, and is currently continuing his studies at the Swiss International Institute Lausanne. His research interests include game design, various programming languages, and the development of innovative solutions in the field of AI.

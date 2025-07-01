@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Courses'
 subtitle:
 
 # Date format
@@ -26,8 +26,8 @@ item:
   - certificate_url: 
     date_end: ''
     date_start: '2025-06-30'
-    description: ''
-    organization: RUDN University
+    description: 'Professional pedagogical education. The curriculum included the study of fundamental knowledge on the basics of information technology. The basics of pedagogy were studied, and an internship was completed, during which I taught computer science during the training module.'
+    organization: RUDN University (Perspektiva)
     organization_url: https://www.rudn.ru/
     title: Computer Science Teacher
     url: 
@@ -35,8 +35,8 @@ item:
   - certificate_url: 
     date_end: ''
     date_start: '2021-11-27'
-    description: ''
-    organization: RUDN University
+    description: 'The course included working in various graphic editors (Adobe Illustrator, Photoshop, Figma), team management, and creating website and application layouts.'
+    organization: RUDN University (Perspektiva)
     organization_url: https://www.rudn.ru/
     title: Graphic design
     url:
@@ -44,7 +44,7 @@ item:
   - certificate_url: 
     date_end: ''
     date_start: '2022-08-10'
-    description: ''
+    description: 'The course included studying the principles and approaches to testing, developing test design and test documentation, as well as familiarization with the principles of working with tester tools.'
     organization: Innopolis University
     organization_url: https://innopolis.university/
     title: Software Testing Basics
