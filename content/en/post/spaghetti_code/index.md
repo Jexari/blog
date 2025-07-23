@@ -3,7 +3,7 @@
 
 title: "The spaghetti code and how to avoid it"
 subtitle: ""
-summary: "Article for experienced and novice programmers"
+summary: "Article for experienced and novice programmers."
 authors: []
 tags: [Technologies, Python]
 categories: []
