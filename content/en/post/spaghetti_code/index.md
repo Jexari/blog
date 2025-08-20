@@ -6,7 +6,7 @@ subtitle: ""
 summary: "Article for experienced and novice programmers."
 authors: []
 tags: [Technologies, Python]
-categories: []
+categories: [Python]
 date: 2023-07-24T14:42:51+03:00
 lastmod: 2023-07-24T14:42:51+03:00
 featured: true

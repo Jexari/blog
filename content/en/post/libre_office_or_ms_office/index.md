@@ -117,7 +117,7 @@ projects: []
 
 <p align="justify">It's also worth discussing the challenges faced by those considering moving away from Microsoft Office. You'll have to adjust the formatting when opening .docx documents, especially if they contain complex layout or tables. I, for example, often had problems displaying images. In such cases, you might want to consider switching to the open ODF (.odt) format.</p>
 
-<h2 id='about_me'><span class="section-num"><b>4</span>. Conclusion</b></h2>
+<h2 id='conclusion'><span class="section-num"><b>4</span>. Conclusion</b></h2>
 
 <p align="justify">LibreOffice is not just a “free alternative” to Microsoft Office. It is a mature, reliable and versatile tool for everyday work with documents, spreadsheets and presentations. It gives freedom, protects data, does not require constant payment and at the same time offers full functionality. The main thing is that it is under the control of the user, not a large corporation. If you have not tried LibreOffice yet, I recommend at least installing it and seeing it in practice. Perhaps, like me, for you it will start as an experiment - and end with a conscious transition.</p>
 
