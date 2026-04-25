@@ -32,7 +32,7 @@ content:
   #    captcha: true
 
   # Contact details (edit or remove options as required)
-  email: Ian_L_Dolganov@mail.ru
+  email: 
 #  address:
 #    street: 
 #    city: 

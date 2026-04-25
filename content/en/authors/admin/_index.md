@@ -37,7 +37,7 @@ education:
       institution: Synergy University
       year: 2026
     - course: Bachelor of Applied Informatics
-      institution: RUDN University
+      institution: Peoples’ Friendship University of Russia named after Patrice Lumumba
       year: 2025
  
 # Social/Academic Networking
@@ -66,10 +66,10 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'Ian_L_Dolganov@mail.ru'
+email: 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Ian L. Dolganov graduated from the Peoples' Friendship University of Russia, and is currently continuing his studies at the Swiss International Institute Lausanne. His research interests include game design, various programming languages, and the development of innovative solutions in the field of AI.
+Ian L. Dolganov graduated from the Peoples’ Friendship University of Russia named after Patrice Lumumba, and is currently continuing his studies at the Swiss International Institute Lausanne. His research interests include game design, various programming languages, and the development of innovative solutions in the field of AI.

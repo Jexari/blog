@@ -31,13 +31,13 @@ education:
       institution: Swiss International Institute Lausanne
       year: 2027
     - course: Бакалавр управления персоналом
-      institution: Университет "Синергия", г. Москва
+      institution: Московский университет «Синергия»
       year: 2026
     - course: Бакалавр медиакоммуникаций
-      institution: Университет "Синергия", г. Москва
+      institution: Московский университет «Синергия»
       year: 2026
     - course: Бакалавр прикладной информатики
-      institution: Российский университет дружбы народов, г. Москва
+      institution: Российский университет дружбы народов имени Патриса Лумумбы
       year: 2025
 
  
@@ -67,10 +67,10 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'Ian_L_Dolganov@mail.ru'
+email: 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Долганов Ян Львович закончил Российский университет дружбы народов, в настоящее время он продолжает обучение в Swiss International Institute Lausanne. Его научные интересы охватывают геймдизайн, различные языки программирования, а также разработку инновационных решений в области ИИ.
+Долганов Ян Львович закончил Российский университет дружбы народов имени Патриса Лумумбы, в настоящее время он продолжает обучение в Swiss International Institute Lausanne. Его научные интересы охватывают геймдизайн, различные языки программирования, а также разработку инновационных решений в области ИИ.
