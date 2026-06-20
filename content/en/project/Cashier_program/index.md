@@ -6,7 +6,7 @@ summary: "It is designed to automate the processes of selling goods. It recogniz
 authors: []
 tags: [Python]
 categories: []
-date: 2025-07-01T16:48:16+03:00
+date: 2026-06-01T16:48:16+03:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -45,7 +45,7 @@ slides: ""
 
 Project plan:
 <ul>
-<li>By September 1, 2025:
+<li>By September 1, 2026:
 <ul>
 <li>create a database with barcodes and a database with order numbers;</li>
 <li>register the ability to select a cashier before selling.</li>
@@ -53,7 +53,7 @@ Project plan:
 
 </li>
 
-<li>By November 1, 2025:
+<li>By November 1, 2026:
 
 <ul>
 <li>organize the recording of cash register opening, sales, cash register closing;</li>
@@ -62,7 +62,7 @@ Project plan:
 
 </li>
 
-<li>By January 1,2026:
+<li>By January 1,2027:
 
 <ul>
 <li>register the ability to sell by order number;</li>
