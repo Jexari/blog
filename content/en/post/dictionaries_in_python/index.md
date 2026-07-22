@@ -4,7 +4,7 @@
 title: "Dictionaries in Python"
 subtitle: ""
 summary: "Everything about dictionaries in Python and nothing more."
-authors: []
+authors: [admin]
 tags: [Python]
 categories: [Python]
 date: 2022-12-01T22:21:10+03:00

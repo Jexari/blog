@@ -4,7 +4,7 @@
 title: "Технология Li-Fi"
 subtitle: ""
 summary: "Безопасная и высокоскоростная технология будущего."
-authors: []
+authors: [admin]
 tags: [Technologies]
 categories: [Technologies]
 date: 2023-05-20T14:42:51+03:00

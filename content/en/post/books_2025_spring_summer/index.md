@@ -4,7 +4,7 @@
 title: "A seasonal menu: from light snacks to substantial dishes"
 subtitle: ""
 summary: "My reading list for the next six months is ready. The priorities are quality management (we're looking for new management tools) and other literature to broaden my horizons."
-authors: []
+authors: [admin]
 tags: []
 categories: []
 date: 2026-03-01T19:41:06+03:00

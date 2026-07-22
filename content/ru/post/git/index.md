@@ -4,7 +4,7 @@
 title: "Основы работы с Git"
 subtitle: ""
 summary: "Что такое Git? Основные команды для контроля версий."
-authors: []
+authors: [admin]
 tags: [Git]
 categories: [Git]
 date: 2022-05-07T18:44:49+03:00

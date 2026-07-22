@@ -4,7 +4,7 @@
 title: "Жанры компьютерных игр"
 subtitle: ""
 summary: "Классификация компьютерных игр"
-authors: []
+authors: [admin]
 tags: [GameDev]
 categories: [GameDev]
 date: 2023-03-02T20:55:47+03:00

@@ -4,7 +4,7 @@
 title: "Git Basics"
 subtitle: ""
 summary: "What is Git? Basic commands for version control."
-authors: []
+authors: [admin]
 tags: [Git]
 categories: [Git]
 date: 2022-05-07T18:44:49+03:00

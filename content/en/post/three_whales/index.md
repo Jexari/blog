@@ -4,7 +4,7 @@
 title: "Three pillars of strategic planning"
 subtitle: "SWOT, ABC, and PEST analyses"
 summary: "The article describes a methodology for applying SWOT, ABC, and PEST analyses as a unified system for a thorough audit of a company's internal resources and external environment. The integration of these tools allows businesses to move from intuitive management to strategic planning, minimizing risks and focusing on the most profitable areas."
-authors: []
+authors: [admin]
 tags: [Management]
 categories: [Management]
 date: 2026-01-18T16:50:07+03:00

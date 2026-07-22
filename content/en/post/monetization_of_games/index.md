@@ -4,7 +4,7 @@
 title: "Monetization in games"
 subtitle: ""
 summary: "Methods of monetization in video games, as well as some marketing techniques"
-authors: []
+authors: [admin]
 tags: [GameDev]
 categories: [GameDev]
 date: 2023-02-25T20:38:19+03:00

@@ -4,7 +4,7 @@
 title: "Распознавания образов"
 subtitle: ""
 summary: "Задача на распознавания букв О, С, Х (Python)."
-authors: []
+authors: [admin]
 tags: [Python]
 categories: []
 date: 2023-02-17T18:14:49+03:00

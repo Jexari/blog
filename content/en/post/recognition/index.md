@@ -4,9 +4,9 @@
 title: "Pattern recognition"
 subtitle: ""
 summary: "The task of recognizing the letters O, C, X (Python)."
-authors: []
+authors: [admin]
 tags: [Python]
-categories: []
+categories: [Python]
 date: 2023-02-17T18:14:49+03:00
 lastmod: 2023-02-17T18:14:49+03:00
 featured: false

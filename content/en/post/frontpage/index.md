@@ -4,7 +4,7 @@
 title: "Microsoft FrontPage"
 subtitle: ""
 summary: "Web design of the noughties."
-authors: []
+authors: [admin]
 tags: [Windows XP, Web design]
 categories: [Web design]
 date: 2022-11-30T17:47:07+03:00

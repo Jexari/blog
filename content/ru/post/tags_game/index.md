@@ -4,7 +4,7 @@
 title: "Пятнашки"
 subtitle: ""
 summary: "Задача на программирование пятнашек (Python)."
-authors: []
+authors: [admin]
 tags: [Python]
 categories: []
 date: 2022-12-05T13:08:49+03:00

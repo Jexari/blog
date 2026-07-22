@@ -4,7 +4,7 @@
 title: "Почему LibreOffice лучше Microsoft Office?"
 subtitle: ""
 summary: "В данной статье я рассказываю про свой опыт использования LibreOffice, анализирую плюсы и минусы различных офисных пакетов."
-authors: []
+authors: [admin]
 tags: [LibreOffice]
 categories: [LibreOffice]
 date: 2025-07-23T16:00:32+03:00

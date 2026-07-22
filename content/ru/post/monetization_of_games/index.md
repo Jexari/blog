@@ -4,7 +4,7 @@
 title: "Монетизации в играх"
 subtitle: ""
 summary: "Способы монетизации в видеоиграх, а также некоторые приемы маркетинга"
-authors: []
+authors: [admin]
 tags: [GameDev]
 categories: [GameDev]
 date: 2023-02-25T20:38:19+03:00

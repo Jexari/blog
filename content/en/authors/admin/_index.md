@@ -53,7 +53,7 @@ social:
     link: https://github.com/Jexari
   - icon: youtube
     icon_pack: fab
-    link: https://www.youtube.com/channel/UCZSAjD6fjaulH49S8VsIzfQ
+    link: https://www.youtube.com/@ian_dolganov
   - icon: facebook
     icon_pack: fab
     link: https://www.facebook.com/profile.php?id=100089475094405

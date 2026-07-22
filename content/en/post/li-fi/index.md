@@ -4,7 +4,7 @@
 title: "Li-Fi technology"
 subtitle: ""
 summary: "Secure and high-speed technology of the future."
-authors: []
+authors: [admin]
 tags: [Technologies]
 categories: [Technologies]
 date: 2023-05-20T14:42:51+03:00

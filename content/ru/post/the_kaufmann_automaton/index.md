@@ -4,7 +4,7 @@
 title: "NK-автоматы С. Кауффмана"
 subtitle: ""
 summary: "Задача на создание автомата С. Кауффмана (Python)."
-authors: []
+authors: [admin]
 tags: [Python]
 categories: []
 date: 2022-12-04T23:11:14+03:00

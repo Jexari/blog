@@ -4,7 +4,7 @@
 title: "Microsoft FrontPage"
 subtitle: ""
 summary: "Веб-дизайн нулевых."
-authors: []
+authors: [admin]
 tags: [Windows XP, Web design]
 categories: [Web design]
 date: 2022-11-30T17:47:07+03:00

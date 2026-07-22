@@ -4,7 +4,7 @@
 title: "Словари в Python"
 subtitle: ""
 summary: "Все про словари в языке Python и ничего лишнего."
-authors: []
+authors: [admin]
 tags: [Python]
 categories: [Python]
 date: 2022-12-01T22:21:10+03:00

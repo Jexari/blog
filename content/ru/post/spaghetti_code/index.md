@@ -4,7 +4,7 @@
 title: "Спагетти-код и как его избежать"
 subtitle: ""
 summary: "Статья для опытных и начинающих программистов."
-authors: []
+authors: [admin]
 tags: [Technologies, Python]
 categories: [Python]
 date: 2023-07-24T14:42:51+03:00

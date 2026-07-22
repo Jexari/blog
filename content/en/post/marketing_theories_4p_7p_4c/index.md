@@ -4,7 +4,7 @@
 title: "The 4P, 4C, and 7P theories: How marketing has changed and why these models remain relevant"
 subtitle: ""
 summary: "The 4Ps, 4Cs, and 7Ps theories are key marketing models that help companies build effective strategies by combining product management, customer focus, and service process improvement."
-authors: []
+authors: [admin]
 tags: [Marketing, Management]
 categories: [Marketing]
 date: 2026-06-20T17:26:02+03:00

@@ -4,7 +4,7 @@
 title: "Why LibreOffice is Better than Microsoft Office?"
 subtitle: ""
 summary: "In this article I talk about my experience using LibreOffice, and analyze the pros and cons of various office suites."
-authors: []
+authors: [admin]
 tags: [LibreOffice]
 categories: [LibreOffice]
 date: 2025-07-23T16:00:32+03:00

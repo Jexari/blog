@@ -4,7 +4,7 @@
 title: "User management in Windows"
 subtitle: ""
 summary: "Managing local user accounts via lusrmgr.msc and cmd."
-authors: []
+authors: [admin]
 tags: [Windows, System administrator]
 categories: [System administrator]
 date: 2022-11-27T21:42:56+03:00
