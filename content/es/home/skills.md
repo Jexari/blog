@@ -9,24 +9,22 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Навыки и умения
+title: Habilidades
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: "Backend-разработка и разработка приложений"
+  - description: "Desarrollo backend y desarrollo de aplicaciones"
     icon: python
     icon_pack: fab
     name: Python
-
-  - description: "Контроль версий и совместная разработка"
+  - description: "Control de versiones y desarrollo colaborativo"
     icon: git-alt
     icon_pack: fab
     name: Git
-
-  - description: "Среда разработки и инструменты командной строки"
+  - description: "Entorno de desarrollo y herramientas de línea de comandos"
     icon: linux
     icon_pack: fab
     name: Linux

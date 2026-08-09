@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Ian L. Dolganov
+title: Ian Dolganov
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Junior Python Developer
+role: Desarrollador Python Junior
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,30 +14,30 @@ organizations:
     url: https://siil.ch/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My academic interests focus on Python development, software engineering, backend development, and modern approaches to designing and developing reliable software systems.
+bio: Mis intereses académicos se centran en el desarrollo con Python, la ingeniería de software, el desarrollo backend y los enfoques modernos para el diseño y desarrollo de sistemas de software fiables.
 
 # Interests to show in About widget
 interests:
-  - Python Development
-  - Backend Development
-  - Software Engineering
-  - Databases
+  - Desarrollo con Python
+  - Desarrollo backend
+  - Ingeniería de software
+  - Bases de datos
   - Linux
   
 # Education to show in About widget
 education:
   courses:
-    - course: Master of Business Administration
+    - course: Maestría en Administración de Empresas (MBA)
       institution: Swiss International Institute Lausanne
       year: 2027
-    - course: Bachelor's Degree in Human Resource Management
+    - course: Licenciatura en Gestión de Recursos Humanos
       institution: Synergy University
       year: 2026
-    - course: Bachelor's Degree in Television
+    - course: Licenciatura en Televisión
       institution: Synergy University
       year: 2026
-    - course: Bachelor's Degree in Applied Informatics
-      institution: Peoples’ Friendship University of Russia named after Patrice Lumumba
+    - course: Licenciatura en Informática Aplicada
+      institution: Universidad Rusa de la Amistad de los Pueblos Patrice Lumumba
       year: 2025
  
 # Social/Academic Networking
@@ -78,4 +78,4 @@ email:
 highlight_name: true
 ---
 
-Ian L. Dolganov is a graduate in Applied Informatics with a professional focus on Python development and software engineering. His interests encompass backend development, the design and development of software applications, databases, algorithms, and modern approaches to building efficient and maintainable software systems.
+Ian Dolganov es graduado en Informática Aplicada y sus intereses profesionales se centran en el desarrollo con Python y la ingeniería de software. Sus áreas de interés abarcan el desarrollo backend, el diseño y desarrollo de aplicaciones de software, las bases de datos, los algoritmos y los enfoques modernos para la creación de sistemas de software eficientes y mantenibles.

@@ -37,6 +37,29 @@ ru:
         url: '#contact'
         weight: 70
 
+es:
+  languageCode: es-es
+  contentDir: content/es
+  title: Ian Dolganov
+  weight: 3
+
+  menu:
+    main:
+      - name: Sobre mí
+        url: '#about'
+        weight: 10
+      - name: Experiencia
+        url: '#experience'
+        weight: 20
+      - name: Blog
+        url: '#posts'
+        weight: 30
+      - name: Proyectos
+        url: '#projects'
+        weight: 40
+      - name: Contacto
+        url: '#contact'
+        weight: 70
 
 
 

@@ -6,7 +6,7 @@ title: Долганов Ян Львович
 superuser: true
 
 # Role/position/tagline
-role: Студент по направлению "Master of Business Administration"
+role: Junior Python Developer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,15 +14,16 @@ organizations:
     url: https://siil.ch/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Мои научные интересы сосредоточены в области геймдева, теории управления и методов организации эффективных процессов разработки цифровых продуктов.
+bio: Мои научные интересы сосредоточены на разработке на Python, программной инженерии, backend-разработке и современных подходах к проектированию и созданию надёжных программных систем.
+
 
 # Interests to show in About widget
 interests:
-  - Python 
-  - Markdown
+  - Разработка на Python
+  - Backend-разработка
+  - Программная инженерия
+  - Базы данных
   - Linux
-  - Game development
-  - Management
   
 # Education to show in About widget
 education:
@@ -79,4 +80,5 @@ email:
 highlight_name: true
 ---
 
-Долганов Ян Львович окончил Российский университет дружбы народов имени Патриса Лумумбы и в настоящее время продолжает обучение в Swiss International Institute Lausanne. Его научные интересы охватывают геймдев, менеджмент и современные подходы к управлению проектами и командами в сфере цифровых технологий.
+Долганов Ян Львович — выпускник направления «Прикладная информатика», чьи профессиональные интересы сосредоточены на разработке на Python и программной инженерии. В сферу его интересов входят backend-разработка, проектирование и разработка программных приложений, базы данных, алгоритмы и современные подходы к созданию эффективных и сопровождаемых программных систем.
+

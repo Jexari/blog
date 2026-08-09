@@ -16,18 +16,20 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 70%
+  - description: "Backend development and application development"
     icon: python
     icon_pack: fab
     name: Python
-  - description: 70%
+
+  - description: "Version control and collaborative development"
     icon: git-alt
     icon_pack: fab
     name: Git
-  - description: 80%
-    icon: markdown
+
+  - description: "Development environment and command-line tools"
+    icon: linux
     icon_pack: fab
-    name: Markdown
+    name: Linux
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
