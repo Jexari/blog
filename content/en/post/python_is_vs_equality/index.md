@@ -4,7 +4,7 @@
 title: "is and == in Python: What's the Difference?"
 subtitle: ""
 summary: "Understanding the difference between the is and == operators in Python, why they can return different results, and when to use each of them."
-authors: []
+authors: [admin]
 tags: [Python]
 categories: [Python]
 date: 2026-08-09T17:04:52+03:00
@@ -28,7 +28,7 @@ preview_only: false
 projects: []
 
 ---
-<p align="justify">In Python, you can encounter both the `==` operator and `is` when comparing values.</p>
+<p align="justify">In Python, you can encounter both the <em>==</em> operator and <em>is</em> when comparing values.</p>
 
 <p align="justify">Consider a simple example:</p>
 
@@ -47,7 +47,7 @@ True
 False
 ```
 
-<p align="justify">The lists `a` and `b` contain the same values, so the expression `a == b` returns `True`. At the same time, the lists themselves were created separately. They are two different objects, so `a is b` returns `False`.</p>
+<p align="justify">The lists <em>a</em> and <em>b</em> contain the same values, so the expression <em>a == b</em> returns <em>True</em>. At the same time, the lists themselves were created separately. They are two different objects, so <em>a is b</em> returns <em>False</em>.</p>
 
 <p align="justify">If we modify the example as follows:</p>
 
@@ -66,9 +66,9 @@ True
 True
 ```
 
-<p align="justify">In this case, no new list was created for `b`. The variable `b` was assigned a reference to the same object that `a` already refers to.</p>
+<p align="justify">In this case, no new list was created for <em>b</em>. The variable <em>b</em> was assigned a reference to the same object that <em>a</em> already refers to.</p>
 
-<p align="justify">You can also check this using the `id()` function:</p>
+<p align="justify">You can also check this using the <em>id()</em> function:</p>
 
 ```python
 a = [1, 2, 3]
@@ -78,7 +78,7 @@ print(id(a))
 print(id(b))
 ```
 
-<p align="justify">The `id` values will be the same.</p>
+<p align="justify">The <em>id</em> values will be the same.</p>
 
 <blockquote>
 <p><code>==</code> answers the question: “Do the objects have the same values?”</p>
@@ -87,7 +87,7 @@ print(id(b))
 
 ## When to Use `==`
 
-<p align="justify">In most ordinary comparisons, the `==` operator is the one you need.</p>
+<p align="justify">In most ordinary comparisons, the <em>==</em> operator is the one you need.</p>
 
 <p align="justify">For example:</p>
 
@@ -121,9 +121,9 @@ if a == b:
 
 ## When to Use `is`
 
-<p align="justify">`is` makes sense in cases where you need to check object identity.</p>
+<p align="justify"><em>is</em> makes sense in cases where you need to check object identity.</p>
 
-<p align="justify">The most common example is `None`:</p>
+<p align="justify">The most common example is <em>None</em>:</p>
 
 ```python
 result = None
@@ -132,7 +132,7 @@ if result is None:
     print("No result")
 ```
 
-<p align="justify">For the opposite check, `is not` is used:</p>
+<p align="justify">For the opposite check, <em>is not</em> is used:</p>
 
 ```python
 if result is not None:
@@ -163,7 +163,7 @@ print(a is b)
 True
 ```
 
-<p align="justify">After this, it may seem that `is` is perfectly suitable for comparing numbers.</p>
+<p align="justify">After this, it may seem that <em>is</em> is perfectly suitable for comparing numbers.</p>
 
 <p align="justify">However, you should not rely on this behavior. Python may reuse some objects that have already been created. This applies, for example, to some integers and strings.</p>
 
