@@ -2,10 +2,10 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Cashier's work program"
-summary: "It is designed to automate the processes of selling goods. It recognizes goods by barcode, writes out their price, records sales and much more."
-authors: []
+summary: "Designed to automate the processes of selling goods. It recognizes products by barcode, displays their price, records sales, and much more."
+authors: [admin]
 tags: [Python]
-categories: []
+categories: [Python]
 date: 2026-06-01T16:48:16+03:00
 
 # Optional external URL for project (replaces project detail page).
@@ -40,36 +40,37 @@ url_video: ""
 slides: ""
 ---
 <a href="https://github.com/Jexari/Program-for-the-cashier">You can click here to view the program.</a>
- 
-<p align="justify">The cashier program includes a database that stores information about cashiers, products and their bar codes. It provides automation of sales processes and allows cashiers to quickly and efficiently perform transactions at the checkout. With the help of the database, the cashier can easily search for information about products, which significantly speeds up the process of making purchases. Each product has a unique bar code that links it to information about the price, availability in stock and other characteristics. The database also stores data about cashiers, which allows you to track their work, as well as keep records of sales, ensuring the accuracy and transparency of financial transactions. The program has an imitation of a cash drawer. Accounting of deposits and withdrawals of funds is kept.</p>
 
-Project plan:
-<ul>
-<li>By September 1, 2026:
-<ul>
-<li>create a database with barcodes and a database with order numbers;</li>
-<li>register the ability to select a cashier before selling.</li>
-</ul>
+<p align="justify"> <strong>Program for the Cashier</strong> is an educational cash register application developed in Python using Tkinter. The project is designed to automate the main operations of a cashier: opening and closing shifts, searching for products by barcode, processing sales, accounting for money in the cash drawer, and saving the history of operations. </p>
 
-</li>
+<p align="justify"> Product information is stored in the editable <code>codes.ods</code> file. A barcode, name, and price are specified for each product. The cashier can scan or enter a barcode, after which the program finds the corresponding product and adds it to the current sale. </p>
 
-<li>By November 1, 2026:
+<p align="justify"> Information about completed sales and cash register shifts is stored in the <code>orders.db</code> database. Each sale is linked to the cashier and the open shift, while completed orders are automatically assigned numbers in the <code>ORD-000001</code> format. </p>
 
-<ul>
-<li>organize the recording of cash register opening, sales, cash register closing;</li>
-<li>write an accounting of money in the cash drawer.</li>
-</ul>
+<h3>Working with Cash Register Shifts</h3>
 
-</li>
+<p align="justify"> Before starting work, the user selects a cashier and opens a cash register shift. When opening the shift, the initial amount of money in the cash drawer is specified. </p>
 
-<li>By January 1,2027:
+<p align="justify"> During the shift, the program records sales and allows manual cash deposits or withdrawals to be registered. When closing the cash register, the actual counted amount is entered. The program calculates the expected balance and saves any possible discrepancy. </p>
 
-<ul>
-<li>register the ability to sell by order number;</li>
-<li>protection from unauthorized access;</li>
-<li>final editing of the GUI.</li>
-</ul>
+<p align="justify"> If the application was closed before the shift was completed, the unclosed shift is automatically restored the next time the program is launched. </p>
 
-</li>
+<h3>Data Storage and Control</h3>
 
-<li>Release the final version of the project on March 1, 2026.</li></ul>
+<p align="justify"> An SHA-256 checksum is used to verify the integrity of the financial database. When the program starts, the contents of <code>orders.db</code> are compared with the saved checksum from <code>orders.db.sha256</code>. After a normal data modification, the checksum is updated automatically. </p>
+
+<p align="justify"> The main actions of the program are recorded in the <code>cash_register.log</code> file: application startup and shutdown, opening and closing shifts, scanning products, processing sales, depositing and withdrawing cash, checking database integrity, and any errors that occur. The log can be opened directly from the program interface in read-only mode. </p>
+
+<h3>Main Features</h3>
+
+<ul> <li>selecting a cashier before starting work;</li> <li>opening and closing a cash register shift;</li> <li>searching for products by barcode;</li> <li>processing and saving sales;</li> <li>automatic order numbering;</li> <li>accounting for cash in the cash drawer;</li> <li>depositing and withdrawing money;</li> <li>calculating the expected and actual cash balance;</li> <li>restoring an unclosed shift after restarting the program;</li> <li>maintaining an activity log;</li> <li>checking database integrity using SHA-256;</li> <li>building a standalone Windows application.</li> </ul>
+
+<h3>Technologies</h3>
+
+<p align="justify"> The project is written in <strong>Python</strong>. The graphical user interface is created using <strong>Tkinter</strong>. An <strong>ODS</strong> spreadsheet is used to store product data, while operations and information about cash register shifts are stored in a local database. </p>
+
+<p align="justify"> For Windows, the program can be built as a separate <code>CashRegister.exe</code> using PyInstaller. The application can be launched without a console window, while working files are created and stored next to the executable file. </p>
+
+<h3>Project Goal</h3>
+
+<p align="justify"> The main goal of the project is to develop a standalone desktop application that simulates the operation of a cashier workstation and to implement, in practice, working with a graphical user interface, local data storage, cash register shifts, operation logging, and data integrity control. </p>
